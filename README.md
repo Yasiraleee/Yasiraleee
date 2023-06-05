@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a passionate software engineer with a strong inclination towards web development. Currently studying at FAST NUCES, I am actively expanding my knowledge in Python, Java, C, HTML, and CSS. Alongside my academic pursuits, I enjoy engaging in physical activities such as playing sports and working out at the gym. My goal is to leverage my skills and expertise to create impactful web applications and contribute to the field of software development.
-
+Greetings! I am a dedicated software engineer, deeply enthusiastic about the field of web development. Currently, I am pursuing my studies at FAST NUCES, where I am expanding my knowledge in Python, Java, C, HTML, and CSS. If you ever require assistance in any of these programming languages, whether it's Java, Python, or C, don't hesitate to reach out to me. Feel free to email me at yasirali478@gmail.com, and I will gladly provide my support. Together, we can overcome any coding challenges and achieve our goals.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Methos#4998) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yasirali132) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir--ali/) 
