@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm A software engineer with a passion for web development <br>I'm Currently Studying At FAST NUCES<br>Learning Python,JAVA,C,HTML,Css<br>i love to play sports and do gym.
+I am a passionate software engineer with a strong inclination towards web development. Currently studying at FAST NUCES, I am actively expanding my knowledge in Python, Java, C, HTML, and CSS. Alongside my academic pursuits, I enjoy engaging in physical activities such as playing sports and working out at the gym. My goal is to leverage my skills and expertise to create impactful web applications and contribute to the field of software development.
 
 
 ## 🌐 Socials:
